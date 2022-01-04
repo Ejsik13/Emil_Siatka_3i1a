@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node_projekt_emil_siatka_3i1a",
+  "version": "1.0.0",
+  "description": "Emil Siatka 3i1a",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "EJS",
+  "license": "ISC"
+}
